@@ -3,5 +3,5 @@
 {% block documentation_link %}
 {% endblock %}
 
-{% block features %}The project packages `echarts-china-provinces-js <https://github.com/chfw/echarts-china-provinces-js>`_ and distributes it via pypi.
+{% block features %}The project packages `echarts-china-provinces-js <https://github.com/echarts-maps/echarts-china-provinces-js>`_ and distributes it via pypi.
 {% endblock %}

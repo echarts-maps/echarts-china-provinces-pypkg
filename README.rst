@@ -9,11 +9,20 @@ echarts-china-provinces-pypkg
    :target: https://codecov.io/gh/chfw/echarts-china-provinces-pypkg
 
 
-The project packages `echarts-china-provinces-js <https://github.com/chfw/echarts-china-provinces-js>`_ and distributes it via pypi.
+The project packages `echarts-china-provinces-js <https://github.com/echarts-maps/echarts-china-provinces-js>`_ and distributes it via pypi.
 
 Installation
 ================================================================================
 
+
+You can install echarts-china-provinces-pypkg via pip:
+
+.. code-block:: bash
+
+    $ pip install echarts-china-provinces-pypkg
+
+
+or clone it and install it:
 
 .. code-block:: bash
 
