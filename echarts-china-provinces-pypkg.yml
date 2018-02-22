@@ -1,0 +1,15 @@
+name: "echarts-china-provinces-pypkg"
+organisation: "chfw"
+author: "C.W."
+contact: "wangc_2011@hotmail.com"
+company: "pyecharts dev team"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2018
+license: MIT
+nowheel: true
+dependencies:
+  - lml==0.0.2
+  - pyecharts-jupyter-installer==0.0.3
+description: "Python package for chinese provinces for pyecharts"
