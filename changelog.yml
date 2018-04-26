@@ -1,0 +1,15 @@
+name: echarts-china-provinces-pypkg
+organisation: pyecharts
+releases:
+- changes:
+  - action: Updated
+    details:
+    - "`pyecharts#492`: pip 10 compactibility problem"
+  date: 26.04.2018
+  version: 0.0.2
+- changes:
+  - action: Added
+    details:
+    - first stable release
+  date: 22.02.2018
+  version: 0.0.1
